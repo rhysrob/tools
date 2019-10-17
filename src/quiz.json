@@ -1,0 +1,71 @@
+[
+  {
+    "question": "What is the capital of Wales?",
+    "choices": [
+      {
+        "choiceTxt": "Bangor",
+        "isCorrect": false,
+        "isSelected": false,
+        "userSelect": false
+      },
+      {
+        "choiceTxt": "Cardiff",
+        "isCorrect": true,
+        "isSelected": false,
+        "userSelect": false
+      },
+      {
+        "choiceTxt": "Barry",
+        "isCorrect": false,
+        "isSelected": false,
+        "userSelect": false
+      }
+    ]
+  },
+  {
+    "question": "How many back to the future films are there?",
+    "choices": [
+      {
+        "choiceTxt": "5",
+        "isCorrect": false,
+        "isSelected": false,
+        "userSelect": false
+      },
+      {
+        "choiceTxt": "7",
+        "isCorrect": false,
+        "isSelected": false,
+        "userSelect": false
+      },
+      {
+        "choiceTxt": "3",
+        "isCorrect": true,
+        "isSelected": false,
+        "userSelect": false
+      }
+    ]
+  },
+  {
+    "question": "Who of the following has played International football for Wales?",
+    "choices": [
+      {
+        "choiceTxt": "Gareth Bale",
+        "isCorrect": true,
+        "isSelected": false,
+        "userSelect": false
+      },
+      {
+        "choiceTxt": "Joe Allen",
+        "isCorrect": true,
+        "isSelected": false,
+        "userSelect": false
+      },
+      {
+        "choiceTxt": "Lionel Messi",
+        "isCorrect": false,
+        "isSelected": false,
+        "userSelect": false
+      }
+    ]
+  }
+]
